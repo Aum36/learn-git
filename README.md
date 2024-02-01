@@ -1,2 +1,2 @@
  # This is the First README File
-  - Hello Git!
+  - Hi Git!
